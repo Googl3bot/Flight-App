@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="io.awspring.cloud.spring.aws.context" type="repository">
+    <properties maven-id="io.awspring.cloud:spring-cloud-aws-context:2.4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-cloud-aws-context-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-cloud-aws-core-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-5.3.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-5.3.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-core-1.12.195.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ion-java-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.12.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.12.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.12.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-cbor-2.12.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-s3-1.12.195.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-kms-1.12.195.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmespath-java-1.12.195.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-ec2-1.12.195.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-5.3.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.3.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-5.3.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-5.3.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-cloud-aws-context-2.4.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-cloud-aws-core-2.4.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-5.3.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-5.3.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-core-1.12.195-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ion-java-1.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.12.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.12.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.12.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-cbor-2.12.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-s3-1.12.195-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-kms-1.12.195-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmespath-java-1.12.195-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-ec2-1.12.195-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-5.3.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.3.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-5.3.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-5.3.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.32-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.activation-api-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

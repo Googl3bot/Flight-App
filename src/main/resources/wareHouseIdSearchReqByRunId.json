@@ -1,0 +1,130 @@
+{
+	"SearchResultTitle": null,
+	"SearchOperators": [
+		{
+			"Key": "Is",
+			"Value": "Is"
+		},
+		{
+			"Key": "Is In",
+			"Value": "Is In"
+		},
+		{
+			"Key": "Is Not In",
+			"Value": "Is Not In"
+		},
+		{
+			"Key": "Contains",
+			"Value": "Contains"
+		},
+		{
+			"Key": "Does Not Contain",
+			"Value": "Does Not Contain"
+		},
+		{
+			"Key": "Starts With",
+			"Value": "Starts With"
+		},
+		{
+			"Key": "Less Than",
+			"Value": "Less Than"
+		},
+		{
+			"Key": "Greater Than",
+			"Value": "Greater Than"
+		},
+		{
+			"Key": "Between",
+			"Value": "Between"
+		}
+	],
+	"SearchFields": null,
+	"DefaultSearchFields": [
+		{
+			"FieldID": 295,
+			"DisplayName": "Business Unit",
+			"FieldName": "BusinessUnitID",
+			"FieldType": "dropdown",
+			"FieldGroupID": 14,
+			"DefaultSearchOperator": "Is In",
+			"SearchValue": null,
+			"SearchValues": null,
+			"SearchSelectValue": null,
+			"SearchWhereValue": null,
+			"SearchValueBegin": null,
+			"SearchValueEnd": null,
+			"SearchDropdownOptionsName": "businessUnitOptions",
+			"SearchDropdownOptions": null,
+			"SearchDefaultCriterion": true,
+			"PartialView": null,
+			"SearchGroup": 1,
+			"SearchShowInResults": false,
+			"Required": false
+		},
+		{
+			"FieldID": 294,
+			"DisplayName": "Date Created",
+			"FieldName": "DateCreated",
+			"FieldType": "datetime",
+			"FieldGroupID": 14,
+			"DefaultSearchOperator": "Between",
+			"SearchValue": null,
+			"SearchValues": null,
+			"SearchSelectValue": null,
+			"SearchWhereValue": null,
+			"SearchValueBegin": null,
+			"SearchValueEnd": null,
+			"SearchShowInResults": false,
+			"Required": false
+		},
+
+
+ 		{
+			"FieldID": 298,
+			"DisplayName": "Order Date",
+			"FieldName": "OrderDate",
+			"FieldType": "datetime",
+			"FieldGroupID": 14,
+			"DefaultSearchOperator": "Between",
+			"SearchValue": null,
+			"SearchValues": null,
+			"SearchSelectValue": null,
+			"SearchWhereValue": null,
+			"SearchValueBegin": null,
+			"SearchValueEnd": null,
+			"SearchDropdownOptionsName": null,
+			"SearchDropdownOptions": null,
+			"SearchDefaultCriterion": true,
+			"PartialView": null,
+			"SearchGroup": 1,
+			"SearchShowInResults": false,
+			"Required": false
+		},
+		{
+			"FieldID": 296,
+			"DisplayName": "Run ID",
+			"FieldName": "ShippingFileRunID",
+			"FieldType": "int32",
+			"FieldGroupID": 14,
+			"DefaultSearchOperator": "Is",
+			"SearchValue": "#RUNID#",
+			"SearchValues": null,
+			"SearchSelectValue": null,
+			"SearchWhereValue": null,
+			"SearchValueBegin": null,
+			"SearchValueEnd": null,
+			"SearchDropdownOptionsName": null,
+			"SearchDropdownOptions": null,
+			"SearchDefaultCriterion": true,
+			"PartialView": null,
+			"SearchGroup": 1,
+			"SearchShowInResults": false,
+			"Required": false
+		}
+	],
+	"OrSearchFields": [],
+	"SearchEntityType": 8,
+	"ContextKey": null,
+	"ContextIncludeSearch": true,
+	"OffsetHours": 5
+}

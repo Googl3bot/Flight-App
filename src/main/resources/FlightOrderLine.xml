@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -->
+<flightOrderLines>
+	<flightOrderLine>
+		<skuId>CB02</skuId>
+		<name>Mini-Color-Box</name>
+		<item>8630102-CB02 Pocket Planner/Color Box</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>12907</skuId>
+		<name>AloePure Plus Package</name>
+		<item>8040807-12907 Essential Cleansing Oil</item>
+		<item>8041107-12907 Line Control Eye Gel</item>
+		<item>8040907-12907 Time Repair Anti-Wrinkle</item>
+		<item>8041004-12907 Face Polish</item>
+		<item>8040706-12907 Nutri Hydrating Mist</item>
+		<item>8006072-12907 C TheLight</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId></skuId>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>12908</skuId>
+		<name>AloePure Mini Package</name>
+		<item>8041107-12908 Line Control Eye Gel</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>FC01</skuId>
+		<name>Foundation Compact-Filled</name>
+		<item>8210001-FC01 AL Cheek Compact</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>CC01</skuId>
+		<name>Cheek Compact Filled</name>
+		<item>8210001-CC01 AL Cheek Compact</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>BB04</skuId>
+		<name>Maxi Eye Bento</name>
+		<item>8421002-BB04 Aloette Spring Beauty Bento Palette</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>BB03</skuId>
+		<name>Mini Eye and Cheek Bento</name>
+		<item>8421002-BB03 Aloette Spring Beauty Bento Palette</item>
+	</flightOrderLine>
+	<flightOrderLine>
+		<skuId>BB05</skuId>
+		<name>Mini Eye Bento</name>
+		<item>8421002-BB05 Aloette Spring Beauty Bento Palette</item>
+	</flightOrderLine>
+</flightOrderLines>
